@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|d:\\lcb\\lcb_c#\\lab02_luuchibao_3124411027\\b3\\b3_6_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|solutionrelative:b3_6_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|d:\\lcb\\lcb_c#\\lab02_luuchibao_3124411027\\b3\\b3_5_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|solutionrelative:b3_5_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|d:\\lcb\\lcb_c#\\lab02_luuchibao_3124411027\\b3\\b3_4_consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|solutionrelative:b3_4_consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|d:\\lcb\\lcb_c#\\lab02_luuchibao_3124411027\\b3\\b3_3_darraysort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|solutionrelative:b3_3_darraysort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|d:\\lcb\\lcb_c#\\lab02_luuchibao_3124411027\\b3\\b3_2_iarraysort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|solutionrelative:b3_2_iarraysort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|d:\\lcb\\lcb_c#\\lab02_luuchibao_3124411027\\b3\\b3_1_arraysort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|solutionrelative:b3_1_arraysort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|d:\\lcb\\lcb_c#\\lab02_luuchibao_3124411027\\b3\\mainb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB5B41-7575-4571-B315-E9A687CB590D}|B3.csproj|solutionrelative:mainb3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B3_6_Student.cs",
+              "DocumentMoniker": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\B3_6_Student.cs",
+              "RelativeDocumentMoniker": "B3_6_Student.cs",
+              "ToolTip": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\B3_6_Student.cs",
+              "RelativeToolTip": "B3_6_Student.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAYwNcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T09:09:53.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "B3_5_Employee.cs",
+              "DocumentMoniker": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\B3_5_Employee.cs",
+              "RelativeDocumentMoniker": "B3_5_Employee.cs",
+              "ToolTip": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\B3_5_Employee.cs",
+              "RelativeToolTip": "B3_5_Employee.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAkwMgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T09:01:38.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "B3_4_ConsoleMenu.cs",
+              "DocumentMoniker": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\B3_4_ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "B3_4_ConsoleMenu.cs",
+              "ToolTip": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\B3_4_ConsoleMenu.cs",
+              "RelativeToolTip": "B3_4_ConsoleMenu.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAQwMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:45:25.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "B3_3_DArraySort.cs",
+              "DocumentMoniker": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\B3_3_DArraySort.cs",
+              "RelativeDocumentMoniker": "B3_3_DArraySort.cs",
+              "ToolTip": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\B3_3_DArraySort.cs",
+              "RelativeToolTip": "B3_3_DArraySort.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:25:39.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "B3_2_IArraySort.cs",
+              "DocumentMoniker": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\B3_2_IArraySort.cs",
+              "RelativeDocumentMoniker": "B3_2_IArraySort.cs",
+              "ToolTip": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\B3_2_IArraySort.cs",
+              "RelativeToolTip": "B3_2_IArraySort.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwDgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T06:44:52.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainB3.cs",
+              "DocumentMoniker": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\MainB3.cs",
+              "RelativeDocumentMoniker": "MainB3.cs",
+              "ToolTip": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\MainB3.cs",
+              "RelativeToolTip": "MainB3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T01:11:20.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "B3_1_ArraySort.cs",
+              "DocumentMoniker": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\B3_1_ArraySort.cs",
+              "RelativeDocumentMoniker": "B3_1_ArraySort.cs",
+              "ToolTip": "D:\\LCB\\LCB_C#\\Lab02_LuuChiBao_3124411027\\B3\\B3_1_ArraySort.cs",
+              "RelativeToolTip": "B3_1_ArraySort.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T01:01:03.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
